@@ -1,0 +1,5 @@
+D:\飞行棋 v0.01 beta\飞行棋 .net core3.1.exe
+D:\飞行棋 v0.01 beta\飞行棋 .net core3.1.dll
+D:\飞行棋 v0.01 beta\飞行棋 .net core3.1.deps.json
+D:\飞行棋 v0.01 beta\飞行棋 .net core3.1.runtimeconfig.json
+D:\飞行棋 v0.01 beta\飞行棋 .net core3.1.pdb
